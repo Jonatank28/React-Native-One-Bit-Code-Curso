@@ -32,6 +32,7 @@ export const styles = StyleSheet.create({
         marginTop: 5,
         backgroundColor: 'blue',
         paddingHorizontal: 40,
+        width: 300,
     },
     buttonText: {
         color: "white",
